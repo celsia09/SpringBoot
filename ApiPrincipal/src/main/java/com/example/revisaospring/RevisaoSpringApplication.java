@@ -13,6 +13,7 @@ import org.springframework.data.web.config.EnableSpringDataWebSupport;
 @SpringBootApplication
 @EnableSpringDataWebSupport
 @EnableCaching
+
 @OpenAPIDefinition(
         info = @Info(
                 title = " Projecto de Revisao Spring",
